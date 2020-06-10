@@ -1,0 +1,3 @@
+model-name: lendingclub_scoring
+experiment-path: /Shared/cicd
+cloud: AWS
